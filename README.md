@@ -1,5 +1,7 @@
 This repository is for following Dave Gray's Django tutorial on Youtube https://www.youtube.com/watch?v=Rp5vd34d-z4
 
+Stopped at 50.20
+
 Resources for the tutorial can be found here https://github.com/gitdagray/django-course
 
 How to for venv:
