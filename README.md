@@ -14,3 +14,4 @@ How to for Django
 - to create new project `django-admin startproject myproject`
 - to run Django `py manage.py runserver`
 - to quit the server `CTRL + c`
+- to create new app `py manage.py startapp <name>` e.g. new app named posts `py manage.py startapp posts`
