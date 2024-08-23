@@ -20,3 +20,7 @@ How to for Django
 - to migrate database `py manage.py migrate`
 - for new migration, need to first make migration `py manage.py makemigrations`
 - get list of commands `py manage.py`
+- to access application shell `py manage.py shell`
+- to exit shell `exit()`
+- create super user `py manage.py createsuperuser`
+- super user credentials (user: rais, pass: raistest)
