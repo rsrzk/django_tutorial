@@ -17,3 +17,6 @@ How to for Django
 - to run Django `py manage.py runserver`
 - to quit the server `CTRL + c`
 - to create new app `py manage.py startapp <name>` e.g. new app named posts `py manage.py startapp posts`
+- to migrate database `py manage.py migrate`
+- for new migration, need to first make migration `py manage.py makemigrations`
+- get list of commands `py manage.py`
