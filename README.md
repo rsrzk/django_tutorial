@@ -1,6 +1,6 @@
 This repository is for following Dave Gray's Django tutorial on Youtube https://www.youtube.com/watch?v=Rp5vd34d-z4
 
-Stopped at 1.50.46
+Stopped at 2.52.00
 
 Resources for the tutorial can be found here https://github.com/gitdagray/django-course
 
